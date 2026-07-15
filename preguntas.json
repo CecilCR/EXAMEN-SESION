@@ -1,0 +1,83 @@
+{
+    "configuracion": {
+        "titulo": "Evaluación de Motivación Organizacional",
+        "curso": "Gestión de las Relaciones en las Organizaciones",
+        "tiempo": 20,
+        "aleatorio": true,
+        "retroalimentacion": true
+    },
+    "preguntas": [
+        {
+            "id": 1784089288482,
+            "enunciado": "Pregunta 1 Karina, gerente de una cadena de farmacias, planea reemplazar el sistema manual de inventario por una plataforma automatizada. Antes de la migración, reúne a los encargados de sucursal para mostrarles las métricas de pérdidas financieras y horas operativas perdidas que generaba el sistema antiguo. ¿Qué etapa del modelo de cambio de Kurt Lewin representa la acción de Karina?",
+            "opciones": [
+                "Descongelar, al desarticular la complacencia institucional y visibilizar la urgencia de la transformación.",
+                "Cambiar, al introducir modificaciones directas en los métodos operativos de las tiendas.",
+                "Sensibilizar, al generar consciencia mediática sobre la necesidad de transformar el sistema, sin intervenir aún la estructura de Lewin.",
+                "Recongelar, al aplicar mecanismos de supervisión jerárquica para alinear al personal rezagado."
+            ],
+            "correcta": 0,
+            "retroalimentacion": "La visibilización del dolor operativo y las ineficiencias del estado actual busca romper el equilibrio o statu quo, disminuyendo las fuerzas restrictivas antes de ejecutar el movimiento. Puntaje: 2 puntos."
+        },
+        {
+            "id": 1784089301754,
+            "enunciado": "Pregunta 2 Una firma financiera elevó un 15% los incentivos económicos para frenar la alta rotación de sus consultores. Sin embargo, las renuncias continúan. Las entrevistas de salida revelan que los mandos medios bloquean la innovación local por rigidez centralizada (toda decisión requiere visado de la oficina central), mientras la dirección general les exige metas de adaptabilidad al mercado. ¿Cuál de las siguientes competencias directivas le habría permitido al gerente diagnosticar con precisión la naturaleza real del problema antes de intervenir con el bono salarial?",
+            "opciones": [
+                "Comunicación persuasiva, para alinear las expectativas individuales con los objetivos de la corporación.",
+                "Inteligencia emocional, para contener el malestar generalizado y empatizar con las demandas de los consultores.",
+                "Pensamiento sistémico, para identificar las interrelaciones complejas y las contradicciones estructurales en el diseño organizacional.",
+                "Agilidad en la toma de decisiones, para implementar respuestas de contingencia operativas e inmediatas ante la fuga de talento."
+            ],
+            "correcta": 2,
+            "retroalimentacion": "El problema no es de motivación extrínseca (bono), sino de diseño organizacional. El pensamiento sistémico permite ver la contradicción entre las exigencias de la alta dirección y las trabas operativas de los mandos medios. Puntaje: 2 puntos."
+        },
+        {
+            "id": 1784089237056,
+            "enunciado": "Pregunta 3 Durante la implementación de un software unificado de adquisiciones en una corporación, el equipo de compras genera retrasos deliberados en la carga de datos. Al ser consultados, manifiestan su disconformidad con el hecho de que la plataforma obligue a tramitar todas las autorizaciones desde la oficina corporativa central, restringiéndoles la facultad de adjudicar órdenes de compra de manera directa a los proveedores de la zona con los que mantenían convenios históricos. A partir de los componentes multidimensionales de la resistencia al cambio, ¿cuál es el origen principal de la oposición del equipo?",
+            "opciones": [
+                "Un factor de índole afectiva, caracterizado por la ansiedad colectiva que genera el analfabetismo digital de los usuarios ante el nuevo software.",
+                "Una rigidez de orden cognitivo, caracterizada por la imposibilidad técnico-cultural de asimilar interfaces digitales complejas.",
+                "Una falla de índole comunicacional, relacionada con la ausencia de una explicación previa sobre los objetivos estratégicos del nuevo sistema centralizado.",
+                "Una expectativa de resultado, vinculada a la proyección de un detrimento directo en su nivel de influencia y control posicional."
+            ],
+            "correcta": 3,
+            "retroalimentacion": "La resistencia no proviene de incapacidad técnica o miedo al software, sino de la pérdida percibida de poder, autonomía y control de recursos locales (intereses políticos/posicionales). Puntaje: 2 puntos."
+        },
+        {
+            "id": 1784089223935,
+            "enunciado": "Pregunta 4 Para mitigar el trabajo aislado y las fricciones de coordinación entre sus sedes, un gerente regional implementó dinámicas de escucha estructurada en las reuniones semanales de líderes. ¿Cuál de las siguientes secuencias representa mejor el proceso por el cual esta competencia relacional de escucha activa se transforma en resultados organizacionales sustentables?",
+            "opciones": [
+                "Escucha selectiva Priorización de la sede con mejores resultados Réplica del modelo ganador Estandarización operativa.",
+                "Escucha efectiva Entendimiento mutuo Emisión de respuestas apropiadas Comunicación efectiva Cooperación interáreas.",
+                "Escucha empática Validación emocional del equipo Fortalecimiento del vínculo personal Fidelización del talento.",
+                "Escucha comprensiva Registro documentado de acuerdos Seguimiento de compromisos Cumplimiento de indicadores."
+            ],
+            "correcta": 1,
+            "retroalimentacion": "Muestra el desarrollo lógico-causal desde el acto relacional micro (atención y decodificación) hasta el macro-resultado organizacional (cooperación libre de silos interáreas). Puntaje: 2 puntos."
+        },
+        {
+            "id": 1784089215299,
+            "enunciado": "Pregunta 5 En un comité de innovación de una Fintech presionado por el tiempo se eligió de forma unánime la propuesta del gerente de producto y cofundador de la firma para frenar la fuga de usuarios en la plataforma digital. Esta decisión se tomó sin debatir otras tres alternativas que habían obtenido puntajes superiores en una votación silenciosa previa. Como gerente de innovación recién incorporado y presidente del comité, tienes la responsabilidad de validar el acta antes de la asignación de fondos. ¿Cuál es el procedimiento técnicamente más adecuado en este momento?",
+            "opciones": [
+                "Suspender temporalmente la firma del acta corporativa y abrir un espacio compacto de revisión técnica para contrastar las tres alternativas mejor evaluadas en la ronda silenciosa frente a la idea elegida.",
+                "Refrendar la propuesta seleccionada en el acta, priorizando el respaldo a la trayectoria del cofundador y garantizando la entrega oportuna al directorio.",
+                "Invalidar en su totalidad el trabajo de ideación desarrollado por el comité y ordenar el reinicio del proceso desde cero bajo la dirección de un consultor metodológico externo.",
+                "Validar la alternativa actual para no retrasar el presupuesto asignado y programar un taller obligatorio sobre sesgos cognitivos para los miembros del comité el próximo mes."
+            ],
+            "correcta": 0,
+            "retroalimentacion": "El presidente del comité debe actuar como salvaguarda de la gobernanza, rompiendo el sesgo de pensamiento de grupo (Groupthink) inducido por la premura y el estatus jerárquico del proponente. Puntaje: 2 puntos."
+        },
+        {
+            "id": 1784089285322,
+            "enunciado": "Pregunta 6 Durante un cierre contable, tanto la jefa de finanzas como un analista cometieron errores críticos de digitación. La jefa justificó su propio fallo debido a la sobrecarga laboral y fallas del sistema, pero concluyó que el error del analista se debió a su falta de rigor y baja capacidad técnica. Desde la perspectiva del comportamiento organizacional, ¿cómo se define el filtro perceptivo aplicado por la jefa de finanzas?",
+            "opciones": [
+                "Efecto Halo",
+                "Sesgo de Afinidad",
+                "Error de Atribución",
+                "Pensamiento Catastrófico"
+            ],
+            "correcta": 2,
+            "retroalimentacion": "Se evidencia la tendencia a atribuir los éxitos propios o justificar los errores personales mediante variables del entorno (atribución externa), mientras que los fallos ajenos se imputan a fallas de la personalidad o competencia de la persona (atribución interna). Puntaje: 2 puntos."
+        }
+    ]
+}
