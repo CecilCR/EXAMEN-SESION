@@ -1,0 +1,47 @@
+{
+    "configuracion": {
+        "titulo": "Evaluación de Motivación Organizacional",
+        "curso": "Gestión de las Relaciones en las Organizaciones",
+        "tiempo": 20,
+        "aleatorio": false,
+        "retroalimentacion": true
+    },
+    "preguntas": [
+        {
+            "id": 1784149072725,
+            "enunciado": "Un número seguido de punto y el enunciado de la pregunta. 2. Cuatro alternativas, cada una en su propia línea, iniciando con A) B) C) D) 3. Una línea con: Respuesta correcta: <letra> 4. Una línea con: Retroalimentación: <texto explicativo> 5. Deja una línea en blanco antes de iniciar la siguiente pregunta. Importante: no cambies las palabras clave (\"Respuesta correcta:\" y \"Retroalimentación:\"), el sistema las busca de forma literal (no distingue mayúsculas/minúsculas). 1.Una fintech peruana que ofrece créditos digitales para pequeños comercios observa que sus tres principales competidores modifican sus tasas de interés promocionales casi todas las semanas, en respuesta directa a las campañas de los demás. El equipo comercial siente que no puede fijar una estrategia de precios porque el terreno cambia constantemente de un día para otro. La gerenta decide entonces construir escenarios de precios alternativos y designar a una persona encargada de monitorear el mercado en tiempo real para reaccionar con rapidez. Según el Paradigma VUCA, ¿qué variable enfrenta la fintech y qué respuesta estratégica está aplicando?",
+            "opciones": [
+                "Enfrenta Incertidumbre, por lo que la gerenta busca generar escenarios que compensen la falta de información histórica sobre el comportamiento futuro del mercado crediticio.",
+                "Enfrenta Volatilidad, por lo que la gerenta construye escenarios y designa monitoreo constante para anticipar y reaccionar con rapidez ante cambios frecuentes del mercado.",
+                "Enfrenta Complejidad, por lo que la gerenta busca simplificar los objetivos comerciales frente a la multiplicidad de variables interconectadas del sector crediticio.",
+                "Enfrenta Ambigüedad, por lo que la gerenta experimenta con distintos precios para clarificar la relación causa-efecto entre sus campañas y las de la competencia."
+            ],
+            "correcta": 1,
+            "retroalimentacion": "El material define la Volatilidad como la velocidad y frecuencia del cambio, y su respuesta estratégica es la Visión: construir escenarios y anticipar movimientos para reaccionar oportunamente. La premisa aísla el marcador de frecuencia/velocidad del cambio (semanal, reactivo entre competidores)."
+        },
+        {
+            "id": 1784149060344,
+            "enunciado": "El equipo de marketing digital de una cadena regional de gimnasios lanzó tres campañas simultáneas (redes sociales, referidos y alianzas con nutricionistas). Al cierre del mes, las inscripciones aumentaron un 20%, pero el equipo no logra establecer con claridad cuál de las tres acciones produjo el resultado, ni si existió alguna relación entre ellas. El gerente de marketing decide entonces diseñar pequeños experimentos controlados, probando una variable a la vez durante las próximas semanas, para poder atribuir causalidad antes de reinvertir el presupuesto. ¿Qué vector del paradigma VUCA se está gestionando?",
+            "opciones": [
+                "La Complejidad mediante el vector de Claridad, simplificando la evaluación de las tres campañas en un solo indicador consolidado de inversión.",
+                "La Incertidumbre mediante el vector de Entendimiento, realizando una escucha activa del mercado para detectar señales emergentes de consumo.",
+                "La Volatilidad mediante el vector de Visión, anticipando qué campaña futura podría generar mayor retorno en los próximos meses.",
+                "La Ambigüedad mediante el vector de Agilidad, experimentando de forma iterativa para despejar la relación causa-efecto entre las campañas y el resultado."
+            ],
+            "correcta": 3,
+            "retroalimentacion": "El material define la Ambigüedad como la falta de claridad en la relación causa-efecto, y su respuesta estratégica es la Agilidad: experimentar de forma iterativa para despejar esa relación antes de comprometer más recursos. El caso aísla explícitamente la falta de atribución causal entre acciones ya ejecutadas."
+        },
+        {
+            "id": 1784149075687,
+            "enunciado": "Una analista financiera domina hojas de cálculo avanzadas y el uso del sistema ERP de la compañía (dimensiones Técnica y Digital), y sus reportes son consistentemente precisos. Sin embargo, en los comités mensuales no logra explicar sus hallazgos de forma comprensible para las áreas comerciales, y sus recomendaciones rara vez se traducen en decisiones de negocio porque nadie las discute con ella. Según el marco de las Tres Dimensiones de Habilidades, ¿qué debería priorizar esta profesional para consolidar un perfil completo?",
+            "opciones": [
+                "Profundizar su dominio técnico en modelamiento financiero avanzado, confiando en que un mayor nivel de precisión analítica generará por sí solo la confianza del comité comercial.",
+                "Delegar gran parte del uso del ERP en un asistente junior, para liberar tiempo y dedicarlo a fortalecer vínculos informales con las áreas comerciales de la empresa.",
+                "Fortalecer la Dimensión Social para operar en la intersección de las tres dimensiones, traduciendo sus hallazgos técnicos en un lenguaje que permita decisiones compartidas.",
+                "Mantener su enfoque técnico y digital actual, considerando que estas dos dimensiones ya cubren los requisitos esenciales del ecosistema de habilidades para un especialista financiero."
+            ],
+            "correcta": 2,
+            "retroalimentacion": "El material señala que el profesional completo opera en la intersección de las dimensiones Social, Técnica y Digital. La analista ya cubre Técnica y Digital, pero su incapacidad para traducir y dialogar sus hallazgos evidencia un vacío en la Dimensión Social, necesaria para que sus hallazgos generen decisiones reales."
+        }
+    ]
+}
